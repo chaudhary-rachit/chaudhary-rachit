@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rachit Chaudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 💬 Ask me about **I am a second year student at IFTM University. My passion in Tech Industry is fueled by a thirst to learn and a drive to make a difference. I'm a quick learner, and always eager to roll up my sleeves and tackle new challenges. Seeking opportunities to translate my academic knowledge into real-world experience.**
+- 💬 Ask me about **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
